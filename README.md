@@ -2,8 +2,10 @@
 
 Please read the full terms at <https://ahhhh.app/eula/>.
 
-For grievance redressal and support, refer section 18:
-
+For grievance redressal and support, refer section 18 of the EULA:
+ 
+> **18. Grievance Redressal**
+>
 > Any complaints, abuse, or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature:
 >
 > Grievance Redressal Officer:
