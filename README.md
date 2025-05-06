@@ -2,7 +2,7 @@
 
 Please read the full terms at <https://ahhhh.app/eula/>.
 
-For grievance redressal and support, refer section 18 of the EULA:
+For grievance redressal, refer section 18 of the EULA:
  
 > **18. Grievance Redressal**
 >
