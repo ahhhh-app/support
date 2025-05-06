@@ -19,7 +19,7 @@ For grievance redressal and support, refer section 18 of the EULA:
 >  a. A physical or electronic signature of a person authorized to act on behalf of the owner for the purposes of the complaint. b. Identification of the work/complaint. In case of Intellectual Property Infringements, description, title papers (if any) and images of infringement. c. Identification of the material on our Platform that is claimed to be infringing or to be the subject of infringing activity. d. The address, telephone number or e-mail address of the complaining party .A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the owner, its agent or the law. e. A statement, under penalty of perjury, that the information in the Complaint is accurate, and that the complaining party is authorized to act. f. undertaking that the complainant shall file an infringement suit in the competent court against the person responsible for uploading the infringing copy and produce the orders of the competent court having jurisdiction, within a period of twenty-one days from the date of receipt of the notice.
 
 
-You may also raise a GitHub issue below.
+For inquiries not in scope of the above, please raise a Github issue below.
 
 <https://github.com/ahhhh-app/support/issues>
 
